@@ -45,3 +45,4 @@ Below every `(Project)` video in the course will be a direct link to both the co
 2. npm install redux react-redux
 3. npm install react-redux-loading-bar
 4. npm install react-redux-loading for tut
+5. npm install redux-thunk
